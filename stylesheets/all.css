@@ -12633,3 +12633,6 @@ a.text-accent:hover, a.text-accent:focus {
 .product-row{
   padding-right: 10px;
 }
+.list-group li{
+  cursor:pointer;
+}
