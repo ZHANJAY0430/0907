@@ -1,0 +1,24 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "helpers/variables";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+//jumbotron 版面
+@import 'CP/header-bg';
+// 毛玻璃效果
+@import 'CP/card-header';
+// 中間內容
+@import 'CP/vertical';
+// 商品
+@import 'CP/product';
+// 頁尾
+@import 'CP/footer';
+
+// 登入
+@import 'CP/signIn';
+
+// 購物車
+@import 'CP/cart';
+
+// 結帳
+@import 'CP/checkout';
